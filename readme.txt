@@ -6,4 +6,4 @@ BackEnd
 FrontEnd 
 ใช้ JavaScript, CSS, React ในการจัดการส่วนของหน้า web
 
-โดยที่ทั้ง BackEnd และ FrontEnd เชื่อมกันด้วย APT
+โดยที่ทั้ง BackEnd และ FrontEnd เชื่อมกันด้วย REST APT
